@@ -31,7 +31,8 @@
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [Site Institucional](https://receitas-casiras-teteu.netlify.app/) | Projeto escolar / institucional | HTML • CSS • JS |
+| [Site de Receitas](https://receitas-casiras-teteu.netlify.app/) | Projeto escolar / institucional | HTML • CSS • JS |
+| [Historia da Playstation](https://historia-da-ps.netlify.app/) | Projeto escolar / institucional | HTML • CSS • JS |
 
 > Em breve mais projetos por aqui 👀
 
@@ -39,7 +40,7 @@
 
 ### 📬 Contato
 
-- 💼 [LinkedIn]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/matheus-de-assis-808417426/)
+- 💼 LinkedIn [https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/matheus-de-assis-808417426/)
 - 📧 Email: matheusdeassis762@gmail.com
 - 🐙 GitHub: [Matheusin9](https://github.com/Matheusin9)
 
