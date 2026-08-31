@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
+  
+  ### 👋 Olá, eu sou o Matheus!
 
-<!--
-**Matheusin9/Matheusin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **Desenvolvedor em evolução** | Apaixonado por tecnologia, design e criar coisas daoras
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mim
+
+- 💻 Focado em **Front-end** (HTML, CSS, JavaScript)
+- 🎨 Gosto de design e de deixar as interfaces bonitas
+- 🌱 Sempre estudando e melhorando
+- 🔥 Motivado a transformar ideias em projetos reais
+
+---
+
+### 🛠️ Tecnologias
+
+**Front-end**  
+`HTML5` `CSS3` `JavaScript` `Responsive Design`
+
+**Ferramentas**  
+`Git` `GitHub` `VS Code` `Figma`
+
+---
+
+### 📌 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [Site Institucional](https://receitas-casiras-teteu.netlify.app/) | Projeto escolar / institucional | HTML • CSS • JS |
+
+> Em breve mais projetos por aqui 👀
+
+---
+
+### 📬 Contato
+
+- 💼 [LinkedIn]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/matheus-de-assis-808417426/)
+- 📧 Email: matheusdeassis762@gmail.com
+- 🐙 GitHub: [Matheusin9](https://github.com/Matheusin9)
+
+---
+
+<div align="center">
+  
+  **Obrigado por passar por aqui!**  
+  Vamos construir algo foda juntos 🚀
+
+</div>
