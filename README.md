@@ -66,5 +66,5 @@
 
 <div align="center">
   <b>GG! Obrigado por passar por aqui</b><br>
-  Vamos construir algo foda juntos 🚀🎮
+  <b>SEMPRE A SUA DISPOSIÇÃO 👌</b>
 </div>
