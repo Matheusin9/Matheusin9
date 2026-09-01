@@ -41,8 +41,8 @@
 
 | Projeto | Descrição | Tecnologias | Demo |
 |:-------:|:---------:|:-----------:|:----:|
-| **Site de Receitas** | Site de receitas caseiras | HTML • CSS • JS | [Jogar](https://receitas-casiras-teteu.netlify.app/) |
-| **História da PlayStation** | Site sobre a história do console | HTML • CSS • JS | [Jogar](https://historia-da-ps.netlify.app/) |
+| **Site de Receitas** | Site de receitas caseiras | HTML • CSS • JS | [Visualizar](https://receitas-casiras-teteu.netlify.app/) |
+| **Agenda de Barbearia** | Site teste para agendamento| HTML • CSS • JS | [Visualizar](https://barbershop-es.netlify.app/) |
 
 > Novos projetos chegando em breve... 👀
 
